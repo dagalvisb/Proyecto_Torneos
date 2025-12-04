@@ -7,9 +7,9 @@ git clone https://github.com/dagalvisb/Proyecto_Torneos.git
 
 aqui descargaras el Frontend y el backend en 2 carpetas diferentes especificadas cada una con el respectivo nombre.
 
-- El Frontend es recomendable abrirlo en Visual Studi Code
+- El Frontend es recomendable abrirlo en Visual Studio Code
 
-luego de abrir el Frontend deberemos descargar las dependencias usando 
+luego de abrir el Frontend deberemos descargar las dependencias usando:
 ```bash
 npm Install
 ```
